@@ -2,9 +2,6 @@
 
 XAI survey for Master's thesis. Application developed in Python and hosted in Binder. The application uses Voilà for render the application as webapp.
 
-## License
-For open source projects, say how it is licensed.
-
 ## How to run the application
 Click on the banner below to run the application.
 
